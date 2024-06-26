@@ -1,0 +1,41 @@
+#mytextinput{
+	border-radius: 7px;
+    border: 2px solid #98b0ff;
+	font-family: Bahnschrift;
+	font-size: 30px;
+	text-decoration: none;
+	text-align: center;
+	text-overflow: clip;
+}
+#mytextinputsmol{
+	border-radius: 7px;
+    border: 2px solid #98b0ff;
+	font-family: Bahnschrift;
+	font-size: 19px;
+	text-decoration: none;
+	text-align: center;
+	text-overflow: clip;
+}
+#mytextinputdecent{
+	border-radius: 7px;
+    border: 2px solid #98b0ff;
+	font-family: Bahnschrift;
+	font-size: 26px;
+	text-decoration: none;
+	text-align: center;
+	text-overflow: clip;
+}
+#mahbutton {
+	border-radius: 7px;
+	border: 2px solid #98b0ff;
+	background-color: white;
+	font-family: Bahnschrift;
+	font-size: 18px;
+	text-decoration: none;
+	text-align: center;
+	text-overflow: clip;
+}
+#mahbutton:hover {
+	background-color: #98b0ff;
+    border: 2px solid #e7e9ff;
+}
